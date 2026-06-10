@@ -1,0 +1,54 @@
+工作流对话日志
+研究主题: Efficient Attention Mechanism
+目标会议: NeurIPS
+================================================================================
+
+[1] 检索到 10 篇论文
+[2] 提取了研究灵感
+[3] 设计了研究方案
+[4] 设计了实验方案
+[5] 设计了论文架构，拆解为 7 个章节
+[6] 派发章节: Abstract
+[7] 撰写 Abstract 第 1 次，159 词
+[8] 章节 Abstract 通过校验并保存
+[9] 派发章节: 1. Introduction
+[10] 撰写 1. Introduction 第 1 次，618 词
+[11] 章节 1. Introduction 通过校验并保存
+[12] 派发章节: 2. Related Work
+[13] 撰写 2. Related Work 第 1 次，638 词
+[14] 章节 2. Related Work 通过校验并保存
+[15] 派发章节: 3. Methodology: The SliceDice Framework
+[16] 撰写 3. Methodology: The SliceDice Framework 第 1 次，1253 词
+[17] 章节 3. Methodology: The SliceDice Framework 通过校验并保存
+[18] 派发章节: 4. Experiments
+[19] 撰写 4. Experiments 第 1 次，953 词
+[20] 章节 4. Experiments 通过校验并保存
+[21] 派发章节: 5. Conclusion and Future Work
+[22] 撰写 5. Conclusion and Future Work 第 1 次，335 词
+[23] 章节 5. Conclusion and Future Work 通过校验并保存
+[24] 派发章节: Appendix
+[25] 撰写 Appendix 第 1 次，1819 词
+[26] 章节 Appendix 未通过，准备重写
+[27] 撰写 Appendix 第 2 次，2050 词
+[28] 章节 Appendix 通过校验并保存
+[29] 完成了论文撰写与组装
+[30] 润色了论文
+[31] 去除了 AI 味
+[32] 完成第 1 次审稿，评分 7.5
+[33] 根据审稿意见修改了论文
+[34] 润色了论文
+[35] 去除了 AI 味
+[36] 完成第 2 次审稿，评分 3.0
+[37] 根据审稿意见修改了论文
+[38] 润色了论文
+[39] 去除了 AI 味
+[40] 完成第 3 次审稿，评分 7.5
+[41] 根据审稿意见修改了论文
+[42] 润色了论文
+[43] 去除了 AI 味
+[44] 完成第 4 次审稿，评分 6.0
+[45] 根据审稿意见修改了论文
+[46] 润色了论文
+[47] 去除了 AI 味
+[48] 完成第 5 次审稿，评分 7.5
+[49] 生成了最终论文
